@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Presentación](README.md)
-* [Lo primero que hay que aprender](lo-primero-que-hay-que-aprender.md)
+* [Lo primero, el INGLÉS](lo-primero-el-ingles.md)
 
 ## POR DÓNDE EMPEZAR
 
