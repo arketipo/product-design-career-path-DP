@@ -8,6 +8,6 @@ description: >-
 
 En el mercado ahora mismo el estándar es [figma](https://www.figma.com). Por funcionar en un navegador, ser multiplataforma, rendimiento, etc.
 
-De todos modos puedes usar Sketch, Adobe XD, Penpot (código abierto), etc.
+De todos modos puedes usar Sketch, Adobe XD, [Penpot](https://penpot.app) (código abierto), etc.
 
 En el futuro, mi opinión, es que las herramientas de código y diseño estarán integradas y serán bidireccionales. Ya no se trabaja "en cascada" ni de manera aislada y la comunicación continua es imprescindible.
