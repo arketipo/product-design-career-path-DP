@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido/a
 
 You can use the [editor on GitHub](https://github.com/arketipo/product-design-career-path/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
