@@ -5,7 +5,7 @@ description: >-
   profesionalmente es tu nivel de inglés.
 ---
 
-# Lo primero que hay que aprender
+## Lo primero que tenemos que aprender
 
 Que eso no te pare, no necesitas un inglés perfecto, pero si sentirte a gusto trabajando con gente de otros países y documentando todo lo que hagas.
 
