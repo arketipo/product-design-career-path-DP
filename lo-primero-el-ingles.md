@@ -5,9 +5,10 @@ description: >-
   profesionalmente es tu nivel de inglés.
 ---
 
-## Lo primero que tenemos que aprender
+# Lo primero, el INGLÉS
+
+### Lo primero que tenemos que aprender2
 
 Que eso no te pare, no necesitas un inglés perfecto, pero si sentirte a gusto trabajando con gente de otros países y documentando todo lo que hagas.
 
 Así que es un trabajo continuo seguir mejorando tu inglés. Afortunadamente hoy podemos acceder a material que te resulte interesante. Lo importante es integrarlo en tu vida, con cosas que te gusten y te aporten, no como una asignatura.
---
