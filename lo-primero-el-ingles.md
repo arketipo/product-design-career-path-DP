@@ -7,7 +7,7 @@ description: >-
 
 # Lo primero, el INGLÉS
 
-### Lo primero que tenemos que aprender2
+### Lo primero que tenemos que aprender
 
 Que eso no te pare, no necesitas un inglés perfecto, pero si sentirte a gusto trabajando con gente de otros países y documentando todo lo que hagas.
 
