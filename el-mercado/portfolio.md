@@ -1,60 +1,63 @@
 # Portfolio
 
-
+**A tener en cuenta**
 
 * Estándar vs Diferencia
 * Boots
 * 1 min
 
-I found a trick to make portfolio creation 10x easier.
+**Empezar con el texto**
 
-Before you _design_ your portfolio, _write_ your portfolio.
+* Crear un guión
+  * En un archivo de texto hacer una lista de páginas y qué incluirá cada una
+  * En cada página las secciones
+  * Listado de proyectos que quieres incluir
+  * Ir preparando los archivos: animaciones, videos, capturas de pantalla, logos, mockups…
 
-I know it’s tempting to jump straight into the design tool.
+**Inspiración**
 
-But hang on for a moment…and consider these 3 steps:
+* Ver que han hecho otros diseñadores/as, compañeras… sobre apariencia, formato, contenidos
+* Navega por ellos buscando inspiración
+* Apunta lo que te llame la atención: estructura, lenguaje…
+* ¿Con qué te has quedado? ¿Qué te ha llamado la atención?
 
-1/ Create your outline
+**Conenido**
 
-* Open a text document
-* Type a list of each page you will include
-* Under each page, type each section
-* On your “projects” page, list each project
+* Escribe el texto de cada proyecto
+* Incluye las imágenes y secciones
 
-Bam, at this point you have the full outline.
+Ya tienes la primera versión, ahora a seguir mejorándola poco a poco.
 
-It’s better to be here right now with text.
-
-If you arrive here first in the design tool you’ll stress too much over pixels.
-
-Now it’s easy to decide if this is the right direction before committing.
-
-2/ Get inspired by other designers
-
-* Find 3 portfolios you admire
-* Scroll through their site
-* Write a list of the pages/sections they include
-* See if they do anything you love that inspires yours
-
-Congrats, now you enhanced your structure without moving a single design pixel.
-
-3/ Add the meat
-
-* Type out the content you wish to include under each page/section
-* This may include your positioning statement, bio, project overviews, visuals to include, etc.
-
-Super, now you’ve just given yourself a blueprint for your entire portfolio.
-
-—
-
-The key is to write with words what you hope to see with your eyes.
-
-If you jump into the tool first, you’ll get overwhelmed with decisions.
-
-By writing your portfolio first you made 100+ decisions while the structure was more malleable.
-
-It’s easier to edit words than it is to edit polished pixels.
-
-Way to go, you are amazing.
+## Portfolios
 
 {% embed url="https://www.bestfolios.com" %}
+
+## Posicionamiento profesional
+
+Gente
+
+* [Sarah Doody](https://www.linkedin.com/in/ACoAAABS-xQBeVlWSpRy5vxkLcrreJAU7Gqlf1s) - Top UX career coaching \
+  [sarahdoody.com](http://sarahdoody.com/)\
+
+* [Hang 🤙 Xu](https://www.linkedin.com/in/ACoAABlDwfQBwNFoldf20KTavrUar4wuWmAHb0c) - Connects senior talent with fantastic companies [collective.supply](http://collective.supply/)\
+
+* [Patrick Neeman](https://www.linkedin.com/in/ACoAAAALvDEBbGKkxh-9GKnEp5uBWLlXtx7X6J8) - helps on Adplist\
+  [https://lnkd.in/dZuUtcnw](https://lnkd.in/dZuUtcnw)
+
+Curro
+
+* [linkedin.com/jobs](http://linkedin.com/jobs)
+* [angel.co](http://angel.co/)
+* [indeed.com](http://indeed.com/)
+* [uxcel.com](http://uxcel.com/)
+* [dribbble.com/jobs](http://dribbble.com/jobs)
+* [meetfrank.com](http://meetfrank.com/)
+
+Proyectos freelance
+
+* [upwork.com](http://upwork.com/)\
+
+* [toptal.com](http://toptal.com/)\
+
+* [99designs.com](http://99designs.com/)
+* [https://www.fiverr.com](https://www.fiverr.com)
