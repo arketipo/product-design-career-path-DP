@@ -1,5 +1,7 @@
 # Portfolio
 
+[https://blog.uxfol.io/joe-natoli-ux-portfolio-building/](https://blog.uxfol.io/joe-natoli-ux-portfolio-building/)
+
 **A tener en cuenta**
 
 * Estándar vs Diferencia
