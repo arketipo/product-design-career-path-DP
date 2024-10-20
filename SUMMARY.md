@@ -30,12 +30,13 @@
 * [Ejemplos de Sistemas de Diseño](sistemas-de-diseno/ejemplos-de-sistemas-de-diseno.md)
 * [Creación y Uso SD](sistemas-de-diseno/creacion-y-uso-sd.md)
 
-## EL DIA A DIA
+## PROCESO
 
-* [Wireframes y Prototipados](el-dia-a-dia/wireframes-y-prototipados.md)
-* [Diseño guiado por datos](el-dia-a-dia/diseno-guiado-por-datos.md)
-* [AB testing](el-dia-a-dia/ab-testing.md)
-* [Test con usuarios](el-dia-a-dia/test-con-usuarios.md)
+* [Discovery](proceso/discovery.md)
+* [Wireframes y Prototipados](proceso/wireframes-y-prototipados.md)
+* [Diseño guiado por datos](proceso/diseno-guiado-por-datos.md)
+* [AB testing](proceso/ab-testing.md)
+* [Test con usuarios](proceso/test-con-usuarios.md)
 
 ## PERFIL PROFESIONAL
 
