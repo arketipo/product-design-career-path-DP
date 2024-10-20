@@ -5,6 +5,7 @@
 
 ## POR DÓNDE EMPEZAR
 
+* [Cómo está la profesión](por-donde-empezar/como-esta-la-profesion.md)
 * [Una buena base](por-donde-empezar/una-buena-base.md)
 * [Herramientas](por-donde-empezar/herramientas.md)
 * [La profesión](por-donde-empezar/la-profesion.md)
