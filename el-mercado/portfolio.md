@@ -138,6 +138,18 @@ P.S. What is your favorite portfolio website?\
 
 {% embed url="https://www.bestfolios.com" %}
 
+{% embed url="https://pafolios.com/" %}
+
+{% embed url="https://pfolios.net/" %}
+
+{% embed url="https://prettyfolio.com/" %}
+
+{% embed url="https://www.wallofportfolios.in/" %}
+
+{% embed url="https://personalsit.es/" %}
+
+{% embed url="https://portfolioproject.io/" %}
+
 ## Posicionamiento profesional
 
 Gente
@@ -165,3 +177,4 @@ Proyectos freelance
 * [toptal.com](http://toptal.com/)
 * [99designs.com](http://99designs.com/)
 * [https://www.fiverr.com](https://www.fiverr.com)
+
